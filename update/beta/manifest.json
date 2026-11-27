@@ -1,11 +1,11 @@
 {
   "product": "ORAUND Roasting OS",
   "channel": "beta",
-  "version": "0.9.0-beta.1",
+  "version": "0.9.1-beta.1",
   "released": "2026-11-27",
   "zip": {
-    "path": "ORAUND-Roasting-OS-0.9.0-beta.1-win-x64.zip",
-    "sha256": "e4d035deb4316306a0097ac6002e26823fca064f8e582dbb1ce1d25c578035d3",
-    "size": 38382248
+    "path": "ORAUND-Roasting-OS-0.9.1-beta.1-win-x64.zip",
+    "sha256": "ffdb4d3bb6d977f639f06e711c39ca1117bcb6e2797a8e1fc1d47988c004bf00",
+    "size": 38475539
   }
 }
